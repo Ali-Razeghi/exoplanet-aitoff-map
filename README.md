@@ -1,16 +1,16 @@
-# 🌌 Exoplanet Aitoff Sky Map
+# Exoplanet Aitoff Sky Map
 
 This Python program fetches **live data from NASA Exoplanet Archive** and visualizes the distribution of confirmed exoplanets on an **Aitoff sky projection**.
 
 - **Color** = discovery method (Transit, Radial Velocity, Imaging, Microlensing, etc.)
 - **Shape** = discovery project (Kepler/K2, TESS, Other)
 
-🔭 From an **astronomy perspective**, it shows how thousands of confirmed exoplanets are spread across the sky.  
-💻 From a **programming perspective**, it demonstrates how Python + scientific libraries can bring real NASA data into meaningful visualization.
+From an **astronomy perspective**, it shows how thousands of confirmed exoplanets are spread across the sky.  
+From a **programming perspective**, it demonstrates how Python + scientific libraries can bring real NASA data into meaningful visualization.
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 - Python 3.9+
 - Packages:
   ```bash
@@ -19,11 +19,10 @@ This Python program fetches **live data from NASA Exoplanet Archive** and visual
 
 ---
 
-## 🚀 Usage
-Run the program from terminal:
+## Usage
+Run the program from the terminal:
 ```bash
-python exoplanet_aitoff.py
-```
+exoplanet_aitoff_kepler_tess.py```
 
 The program will:
 1. Download the latest exoplanet dataset from NASA.
@@ -32,10 +31,10 @@ The program will:
 
 ---
 
-## 📸 Example Output
+## Example Output
 *An Aitoff projection map with exoplanets, color-coded by discovery method and shaped by project.*
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
