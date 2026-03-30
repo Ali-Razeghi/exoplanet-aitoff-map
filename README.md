@@ -53,12 +53,14 @@ Main script: `exoplanet_aitoff_kepler_tess.py`
 
 ## Output
 
-The program will:
+The program performs the following steps:
 
-1. Download the latest confirmed exoplanet dataset from NASA
-2. Process celestial coordinates (RA/Dec)
-3. Generate an Aitoff sky projection map
-4. Display the visualization automatically
+1. Retrieves the latest confirmed exoplanet dataset from the NASA Exoplanet Archive  
+2. Converts celestial coordinates (Right Ascension and Declination) into projection format  
+3. Generates an Aitoff sky projection map  
+4. Displays the visualization automatically  
+
+The resulting plot shows the global sky distribution of exoplanets, highlighting observational clustering from major surveys.
 
 ---
 
