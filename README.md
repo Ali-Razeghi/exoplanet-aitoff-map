@@ -22,8 +22,8 @@ From a **programming perspective**, it demonstrates how Python + scientific libr
 ## Usage
 Run the program from the terminal:
 ```bash
-exoplanet_aitoff_kepler_tess.py```
-
+python exoplanet_aitoff_kepler_tess.py
+```
 The program will:
 1. Download the latest exoplanet dataset from NASA.
 2. Render an Aitoff sky map.
