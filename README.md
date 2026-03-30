@@ -66,7 +66,7 @@ The resulting plot shows the global sky distribution of exoplanets, highlighting
 
 ## Example Output
 
-![Aitoff Map](assets/aitoff_map.png)
+![Aitoff Map](assets/exoplanets_aitoff_all.jpg)
 
 *(Make sure to add your generated image inside the `assets` folder.)*
 
